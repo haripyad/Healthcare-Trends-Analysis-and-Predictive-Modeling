@@ -13,11 +13,8 @@ This project involves the analysis of healthcare trends and the development of p
 - **Predictive Analysis:** Demonstrates how to make predictions for future years based on the trained models, with a specific focus on a desired medical procedure code.
 
 ## Usage
-1. Ensure you have the required Python libraries installed. You can use the following command:
-    ```bash
-    pip install pandas scikit-learn lightgbm
-    ```
-
+1. Ensure you have the required Python libraries installed.
+   
 2. Run the Jupyter notebook containing the Python code.
 
 3. Follow the step-by-step instructions and comments in the notebook to understand the data analysis and predictive modeling process.
